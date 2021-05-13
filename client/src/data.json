@@ -1,0 +1,80 @@
+{
+    "products": [
+        {
+            "_id": "dress1",
+            "image": "https://i.pinimg.com/564x/19/5f/ee/195fee74eba73ecf7766d74aff39b665.jpg",
+            "title": "Title 1",
+            "description": "Description 1",
+            "avaiblesSizes": [
+                "X",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "price": 29.9
+        },
+        {
+            "_id": "dress2",
+            "image": "https://i.pinimg.com/564x/19/5f/ee/195fee74eba73ecf7766d74aff39b665.jpg",
+            "title": "Title 2",
+            "description": "Description 2",
+            "avaiblesSizes": [
+                "X",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "price": 29.9
+        },
+        {
+            "_id": "dress3",
+            "image": "https://i.pinimg.com/564x/19/5f/ee/195fee74eba73ecf7766d74aff39b665.jpg",
+            "title": "Title 3",
+            "description": "Description 3",
+            "avaiblesSizes": [
+                "X",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "price": 19.9
+        },
+        {
+            "_id": "dress4",
+            "image": "https://i.pinimg.com/564x/19/5f/ee/195fee74eba73ecf7766d74aff39b665.jpg",
+            "title": "Title 4",
+            "description": "Description 4",
+            "avaiblesSizes": [
+                "X",
+                "XL",
+                "XXL"
+            ],
+            "price": 32.9
+        },
+        {
+            "_id": "dress5",
+            "image": "https://i.pinimg.com/564x/19/5f/ee/195fee74eba73ecf7766d74aff39b665.jpg",
+            "title": "Title 5",
+            "description": "Description 5",
+            "avaiblesSizes": [
+                "X",
+                "L",
+                "XL"
+            ],
+            "price": 28.9
+        },
+        {
+            "_id": "dress6",
+            "image": "https://i.pinimg.com/564x/19/5f/ee/195fee74eba73ecf7766d74aff39b665.jpg",
+            "title": "Title 6",
+            "description": "Description 6",
+            "avaiblesSizes": [
+                "X",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "price": 30.9
+        }
+    ]
+}
